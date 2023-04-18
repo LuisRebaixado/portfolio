@@ -64,6 +64,10 @@
       </div>
     </div>
   </div>
+
+  <footer class="footer">
+    © Luis Felipe Manfroni, 2023 - 2023.
+  </footer>
 </section>
 
 <style>
@@ -125,5 +129,10 @@
 }
 .project-item-title {
   font-size: 14pt;
+}
+.footer {
+  text-align: center;
+  font-size: 11pt;
+  margin-top: 92px;
 }
 </style>
